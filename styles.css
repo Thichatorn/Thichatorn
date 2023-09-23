@@ -1,13 +1,22 @@
-/*th,  td  {
-    border: dashe solid rgb(136, 69, 46) 3px;
-} */
+.linecolor{
+    border: solid rgb(136, 69, 46) 3px;
+} 
 
 p {
-    color:rgb(48, 38, 234);
+    color:#630000;
 }
-img{
+.profile{
     border-radius: 50%;
 }
 body{
-    background-color: rgb(229, 167, 119);
+    background-color: #EEEBDD;
+}
+hr{
+    /*background-color: white;*/
+    border-style: dotted none none;
+    /*height:0;*/
+    width: 30%;
+    border-color: rgb(136, 69, 46);
+    border-width:5px;
+
 }
