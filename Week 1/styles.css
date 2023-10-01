@@ -1,0 +1,42 @@
+.linecolor{
+    border: solid rgb(136, 69, 46) 3px;
+} 
+
+.header{
+    background-color:#B5D5C5;
+
+}
+.middle{
+    background-color: rgb(252, 255, 205);
+
+}
+.bottom{
+    background-color: #B5D5C5;
+
+}
+.contact{
+    background-color: burlywood;
+    
+}
+
+p {
+    color:#630000;
+}
+.profile{
+    border-radius: 50%;
+}
+body{
+    margin:0;
+}
+h3{
+    margin-top:0;
+}
+hr{
+    /*background-color: white;*/
+    border-style: dotted none none;
+    /*height:0;*/
+    width: 30%;
+    border-color: rgb(136, 69, 46);
+    border-width:5px;
+    margin-bottom:0;
+}
